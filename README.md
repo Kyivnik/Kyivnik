@@ -1,5 +1,19 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg5OXYwejNzNzkyYzdwdGVlZDAybm9zNTBibnhyb2kzc2FvMXd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2owaDBib3JvZzF6cThsamZsb2MycW1oNWpseHBxaWRoZGcxZ2RwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ag3v2jwM5Un6Re56R0/giphy-downsized-large.gif" width="150"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/kyivnik/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+   <img src="https://komarev.com/ghpvc/?username=kyivnik&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
