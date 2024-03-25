@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://giphy.com/stickers/code-coding-programao-UUBYepX4WSiNFf8GOT](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg5OXYwejNzNzkyYzdwdGVlZDAybm9zNTBibnhyb2kzc2FvMXd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/UUBYepX4WSiNFf8GOT/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg5OXYwejNzNzkyYzdwdGVlZDAybm9zNTBibnhyb2kzc2FvMXd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
 </div>
 
 <!--
