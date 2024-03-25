@@ -23,6 +23,9 @@
 
 ### :man_technologist: About Me :
 I am a Data Science & Machine Learning Specialist from Ukraine 🇺🇦
+
+Currently in Valencia, Spain 🇪🇸
+
 - 💻 Data Scientist & ML Enthusiast (3+ yrs Python): I leverage my Python expertise and passion for Machine Learning to tackle challenging problems in various domains (NLP, CV, etc.).
 
 - 🎓 Deep Learning Specialist (TensorFlow): I have experience building and deploying deep learning models for tasks like image classification (Food Vision) and text summarization (SkimLit).
@@ -58,6 +61,17 @@ I am a Data Science & Machine Learning Specialist from Ukraine 🇺🇦
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" **alt="Keras" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyivnik&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyivnik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **Kyivnik/Kyivnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
