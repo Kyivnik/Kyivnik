@@ -64,7 +64,7 @@ Currently in Valencia, Spain 🇪🇸
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stat :
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyivnik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
