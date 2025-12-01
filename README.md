@@ -26,7 +26,7 @@ I am a Data Science & Machine Learning Specialist from Ukraine 🇺🇦
 
 Currently in Valencia, Spain 🇪🇸
 
-- 💻 Data Scientist & ML Enthusiast (3+ yrs Python): I leverage my Python expertise and passion for Machine Learning to tackle challenging problems in various domains (NLP, CV, etc.).
+- 💻 Data Scientist & ML Enthusiast (1+ yrs Python): I leverage my Python expertise and passion for Machine Learning to tackle challenging problems in various domains (NLP, CV, etc.).
 
 - 🎓 Deep Learning Specialist (TensorFlow): I have experience building and deploying deep learning models for tasks like image classification (Food Vision) and text summarization (SkimLit).
 
